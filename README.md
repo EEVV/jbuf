@@ -1,2 +1,2 @@
-# jbuf
-Simple buffer system written for terminal-like systems.
+# jvec
+Simple vector (acts like hashmap) used to build buffers.
